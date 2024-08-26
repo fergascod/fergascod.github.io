@@ -3,10 +3,12 @@ layout: home
 title: Home
 ---
 
-Hello there!
 
 <div class="row">
-  <div style="float:left;width:60%;text-align:justify">
+    <img style="border-radius:50%;width:30%;display:block;margin:auto" src="me_pic.jpg" alt="Me">
+
+
+  <div style="float:left;text-align:justify;margin-top:1cm;">
     <p>
     My name is Fernando Gastón. I graduated from the Polytechnic University of Catalonia (UPC) with a Bachelor's degree in Data Science and Engineering, and a Master's in Advanced Mathematics and Mathematical Engineering. 
     </p>
@@ -16,8 +18,12 @@ Hello there!
     <p>
     Feel free to contact me if you'd like to discuss potential opportunities or collaborations. 😊
     </p>
+    <div style="text-align: center;">
+        <div style="border-radius:25px;background:#1166a2;padding: 20px;display:inline-block;"> 
+            <a style="color:white" href="CV.pdf" download>My CV</a>
+        </div>
+    </div>
   </div>
-  <div style="float:left;width:40%;">
-    <img style="border-radius:50%;width:80%;display:block;margin:auto" src="me_pic.jpg" alt="Me">
-  </div>
+
+
 </div>
