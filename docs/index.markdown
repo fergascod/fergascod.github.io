@@ -10,7 +10,7 @@ title: Home
 
   <div style="float:left;text-align:justify;margin-top:1cm;">
     <p>
-    My name is Fernando Gastón. I graduated from the Polytechnic University of Catalonia (UPC) with a Bachelor's degree in Data Science and Engineering, and a Master's in Advanced Mathematics and Mathematical Engineering. 
+    My name is Fernando Gastón. I graduated from the Polytechnic University of Catalonia (UPC) with a Bachelor's degree in Data Science and Engineering, and a Master's in Advanced Mathematics and Mathematical Engineering. I am currently looking for interesting career opportunities in data science and software development.
     </p>
     <p>
     Welcome to my personal webpage! Here, you can learn more about my background, explore the projects I've developed over the years, and discover how my skills and experiences align with your needs.
